@@ -1,0 +1,87 @@
+C:\Users\cpu\source\repos\Hozore karconan\BLL\bin\Debug\libSkiaSharp.dylib
+C:\Users\cpu\source\repos\Hozore karconan\BLL\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\cpu\source\repos\Hozore karconan\BLL\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\cpu\source\repos\Hozore karconan\BLL\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\cpu\source\repos\Hozore karconan\BLL\bin\Debug\x64\libSkiaSharp.so
+C:\Users\cpu\source\repos\Hozore karconan\BLL\bin\Debug\arm\libSkiaSharp.so
+C:\Users\cpu\source\repos\Hozore karconan\BLL\bin\Debug\arm64\libSkiaSharp.so
+C:\Users\cpu\source\repos\Hozore karconan\BLL\bin\Debug\musl-x64\libSkiaSharp.so
+C:\Users\cpu\source\repos\Hozore karconan\BLL\bin\Debug\BLL.dll.config
+C:\Users\cpu\source\repos\Hozore karconan\BLL\bin\Debug\BLL.dll
+C:\Users\cpu\source\repos\Hozore karconan\BLL\bin\Debug\BLL.pdb
+C:\Users\cpu\source\repos\Hozore karconan\BLL\bin\Debug\BE.dll
+C:\Users\cpu\source\repos\Hozore karconan\BLL\bin\Debug\BehComponents.dll
+C:\Users\cpu\source\repos\Hozore karconan\BLL\bin\Debug\DAL.dll
+C:\Users\cpu\source\repos\Hozore karconan\BLL\bin\Debug\EntityFramework.dll
+C:\Users\cpu\source\repos\Hozore karconan\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cpu\source\repos\Hozore karconan\BLL\bin\Debug\PersianDatePickerControl.dll
+C:\Users\cpu\source\repos\Hozore karconan\BLL\bin\Debug\BE.pdb
+C:\Users\cpu\source\repos\Hozore karconan\BLL\bin\Debug\BE.dll.config
+C:\Users\cpu\source\repos\Hozore karconan\BLL\bin\Debug\DAL.pdb
+C:\Users\cpu\source\repos\Hozore karconan\BLL\bin\Debug\DAL.dll.config
+C:\Users\cpu\source\repos\Hozore karconan\BLL\bin\Debug\BehComponents.xml
+C:\Users\cpu\source\repos\Hozore karconan\BLL\bin\Debug\EntityFramework.xml
+C:\Users\cpu\source\repos\Hozore karconan\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cpu\source\repos\Hozore karconan\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\cpu\source\repos\Hozore karconan\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\cpu\source\repos\Hozore karconan\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\cpu\source\repos\Hozore karconan\BLL\obj\Debug\BLL.dll
+C:\Users\cpu\source\repos\Hozore karconan\BLL\obj\Debug\BLL.pdb
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BLL\bin\Debug\libSkiaSharp.dylib
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BLL\bin\Debug\x86\libSkiaSharp.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BLL\bin\Debug\x64\libSkiaSharp.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BLL\bin\Debug\arm64\libSkiaSharp.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BLL\bin\Debug\x64\libSkiaSharp.so
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BLL\bin\Debug\arm\libSkiaSharp.so
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BLL\bin\Debug\arm64\libSkiaSharp.so
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BLL\bin\Debug\musl-x64\libSkiaSharp.so
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BLL\bin\Debug\BLL.dll.config
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BLL\bin\Debug\BLL.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BLL\bin\Debug\BLL.pdb
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BLL\bin\Debug\BE.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BLL\bin\Debug\BehComponents.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BLL\bin\Debug\DAL.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BLL\bin\Debug\EntityFramework.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BLL\bin\Debug\PersianDatePickerControl.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BLL\bin\Debug\BE.pdb
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BLL\bin\Debug\BE.dll.config
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BLL\bin\Debug\DAL.pdb
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BLL\bin\Debug\DAL.dll.config
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BLL\bin\Debug\BehComponents.xml
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BLL\bin\Debug\EntityFramework.xml
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BLL\obj\Debug\BLL.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BLL\obj\Debug\BLL.pdb
+C:\Users\cpu\Desktop\Hozore karconan\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\cpu\Desktop\Hozore karconan\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\cpu\Desktop\Hozore karconan\BLL\obj\Debug\BLL.dll
+C:\Users\cpu\Desktop\Hozore karconan\BLL\obj\Debug\BLL.pdb
+C:\Users\cpu\Desktop\Hozore karconan\BLL\bin\Debug\libSkiaSharp.dylib
+C:\Users\cpu\Desktop\Hozore karconan\BLL\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\cpu\Desktop\Hozore karconan\BLL\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\cpu\Desktop\Hozore karconan\BLL\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\cpu\Desktop\Hozore karconan\BLL\bin\Debug\x64\libSkiaSharp.so
+C:\Users\cpu\Desktop\Hozore karconan\BLL\bin\Debug\arm\libSkiaSharp.so
+C:\Users\cpu\Desktop\Hozore karconan\BLL\bin\Debug\arm64\libSkiaSharp.so
+C:\Users\cpu\Desktop\Hozore karconan\BLL\bin\Debug\musl-x64\libSkiaSharp.so
+C:\Users\cpu\Desktop\Hozore karconan\BLL\bin\Debug\BLL.dll.config
+C:\Users\cpu\Desktop\Hozore karconan\BLL\bin\Debug\BLL.dll
+C:\Users\cpu\Desktop\Hozore karconan\BLL\bin\Debug\BLL.pdb
+C:\Users\cpu\Desktop\Hozore karconan\BLL\bin\Debug\BE.dll
+C:\Users\cpu\Desktop\Hozore karconan\BLL\bin\Debug\BehComponents.dll
+C:\Users\cpu\Desktop\Hozore karconan\BLL\bin\Debug\DAL.dll
+C:\Users\cpu\Desktop\Hozore karconan\BLL\bin\Debug\EntityFramework.dll
+C:\Users\cpu\Desktop\Hozore karconan\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cpu\Desktop\Hozore karconan\BLL\bin\Debug\PersianDatePickerControl.dll
+C:\Users\cpu\Desktop\Hozore karconan\BLL\bin\Debug\BE.pdb
+C:\Users\cpu\Desktop\Hozore karconan\BLL\bin\Debug\BE.dll.config
+C:\Users\cpu\Desktop\Hozore karconan\BLL\bin\Debug\DAL.pdb
+C:\Users\cpu\Desktop\Hozore karconan\BLL\bin\Debug\DAL.dll.config
+C:\Users\cpu\Desktop\Hozore karconan\BLL\bin\Debug\BehComponents.xml
+C:\Users\cpu\Desktop\Hozore karconan\BLL\bin\Debug\EntityFramework.xml
+C:\Users\cpu\Desktop\Hozore karconan\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cpu\Desktop\Hozore karconan\BLL\obj\Debug\BLL.csproj.CopyComplete

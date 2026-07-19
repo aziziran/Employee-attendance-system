@@ -1,0 +1,45 @@
+C:\Users\cpu\source\repos\Hozore karconan\BE\bin\Debug\BE.dll.config
+C:\Users\cpu\source\repos\Hozore karconan\BE\bin\Debug\BE.dll
+C:\Users\cpu\source\repos\Hozore karconan\BE\bin\Debug\BE.pdb
+C:\Users\cpu\source\repos\Hozore karconan\BE\bin\Debug\BehComponents.dll
+C:\Users\cpu\source\repos\Hozore karconan\BE\bin\Debug\EntityFramework.dll
+C:\Users\cpu\source\repos\Hozore karconan\BE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cpu\source\repos\Hozore karconan\BE\bin\Debug\PersianDatePickerControl.dll
+C:\Users\cpu\source\repos\Hozore karconan\BE\bin\Debug\BehComponents.xml
+C:\Users\cpu\source\repos\Hozore karconan\BE\bin\Debug\EntityFramework.xml
+C:\Users\cpu\source\repos\Hozore karconan\BE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cpu\source\repos\Hozore karconan\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\cpu\source\repos\Hozore karconan\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\cpu\source\repos\Hozore karconan\BE\obj\Debug\BE.csproj.CopyComplete
+C:\Users\cpu\source\repos\Hozore karconan\BE\obj\Debug\BE.dll
+C:\Users\cpu\source\repos\Hozore karconan\BE\obj\Debug\BE.pdb
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BE\bin\Debug\BE.dll.config
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BE\bin\Debug\BE.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BE\bin\Debug\BE.pdb
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BE\bin\Debug\BehComponents.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BE\bin\Debug\EntityFramework.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BE\bin\Debug\EntityFramework.SqlServer.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BE\bin\Debug\PersianDatePickerControl.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BE\bin\Debug\BehComponents.xml
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BE\bin\Debug\EntityFramework.xml
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BE\bin\Debug\EntityFramework.SqlServer.xml
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BE\obj\Debug\BE.csproj.CopyComplete
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BE\obj\Debug\BE.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BE\obj\Debug\BE.pdb
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\cpu\Desktop\Hozore karconan\BE\bin\Debug\BE.dll.config
+C:\Users\cpu\Desktop\Hozore karconan\BE\bin\Debug\BE.dll
+C:\Users\cpu\Desktop\Hozore karconan\BE\bin\Debug\BE.pdb
+C:\Users\cpu\Desktop\Hozore karconan\BE\bin\Debug\BehComponents.dll
+C:\Users\cpu\Desktop\Hozore karconan\BE\bin\Debug\EntityFramework.dll
+C:\Users\cpu\Desktop\Hozore karconan\BE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cpu\Desktop\Hozore karconan\BE\bin\Debug\PersianDatePickerControl.dll
+C:\Users\cpu\Desktop\Hozore karconan\BE\bin\Debug\BehComponents.xml
+C:\Users\cpu\Desktop\Hozore karconan\BE\bin\Debug\EntityFramework.xml
+C:\Users\cpu\Desktop\Hozore karconan\BE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cpu\Desktop\Hozore karconan\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\cpu\Desktop\Hozore karconan\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\cpu\Desktop\Hozore karconan\BE\obj\Debug\BE.csproj.CopyComplete
+C:\Users\cpu\Desktop\Hozore karconan\BE\obj\Debug\BE.dll
+C:\Users\cpu\Desktop\Hozore karconan\BE\obj\Debug\BE.pdb

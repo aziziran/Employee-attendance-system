@@ -1,0 +1,274 @@
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\bin\Debug\libSkiaSharp.dylib
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\bin\Debug\x64\libSkiaSharp.so
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\bin\Debug\arm\libSkiaSharp.so
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\bin\Debug\arm64\libSkiaSharp.so
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\bin\Debug\musl-x64\libSkiaSharp.so
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\bin\Debug\Hozore karconan.exe.config
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\bin\Debug\Hozore karconan.exe
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\bin\Debug\Hozore karconan.pdb
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\bin\Debug\BE.dll
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\bin\Debug\BehComponents.dll
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\bin\Debug\BLL.dll
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\bin\Debug\DevComponents.Charts.Design.dll
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\bin\Debug\FoxLearn.License.dll
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\bin\Debug\Guna.UI2.dll
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\bin\Debug\PersianDatePickerControl.dll
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\bin\Debug\PersianDateTimeControl.dll
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\bin\Debug\XanderUI.dll
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\bin\Debug\DAL.dll
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\bin\Debug\EntityFramework.dll
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\bin\Debug\DevComponents.DotNetBar.Charts.dll
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\bin\Debug\BE.pdb
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\bin\Debug\BE.dll.config
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\bin\Debug\BLL.pdb
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\bin\Debug\BLL.dll.config
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\bin\Debug\BehComponents.xml
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\bin\Debug\DAL.pdb
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\bin\Debug\DAL.dll.config
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\bin\Debug\EntityFramework.xml
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\obj\Debug\Hozore karconan.csproj.AssemblyReference.cache
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\obj\Debug\Hozore karconan.csproj.SuggestedBindingRedirects.cache
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.ActivationForm.resources
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.ConfirmDialog.resources
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.DashboardForm.resources
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.EmployeeForm.resources
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.Form1.resources
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.FrmMain.resources
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.karteshenasayi.resources
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.loginform.resources
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.jhg.resources
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.MainForm2.resources
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.sabtekarmand.resources
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.SearchForm.resources
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.SplashScreen.resources
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.Properties.Resources.resources
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.ToastForm.resources
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\obj\Debug\Hozore karconan.csproj.GenerateResource.cache
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\obj\Debug\Hozore karconan.csproj.CoreCompileInputs.cache
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\obj\Debug\Hozore karconan.csproj.CopyComplete
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\obj\Debug\Hozore karconan.exe
+C:\Users\cpu\source\repos\Hozore karconan\Hozore karconan\obj\Debug\Hozore karconan.pdb
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\bin\Debug\libSkiaSharp.dylib
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\bin\Debug\x86\libSkiaSharp.dll
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\bin\Debug\x64\libSkiaSharp.dll
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\bin\Debug\arm64\libSkiaSharp.dll
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\bin\Debug\x64\libSkiaSharp.so
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\bin\Debug\arm\libSkiaSharp.so
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\bin\Debug\arm64\libSkiaSharp.so
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\bin\Debug\musl-x64\libSkiaSharp.so
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\bin\Debug\Hozore karconan.exe.config
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\bin\Debug\Hozore karconan.exe
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\bin\Debug\Hozore karconan.pdb
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\bin\Debug\BE.dll
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\bin\Debug\BehComponents.dll
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\bin\Debug\BLL.dll
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\bin\Debug\DevComponents.Charts.Design.dll
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\bin\Debug\DevComponents.DotNetBar2.dll
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\bin\Debug\EntityFramework.SqlServer.dll
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\bin\Debug\FoxLearn.License.dll
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\bin\Debug\Guna.UI2.dll
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\bin\Debug\PersianDatePickerControl.dll
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\bin\Debug\PersianDateTimeControl.dll
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\bin\Debug\XanderUI.dll
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\bin\Debug\DAL.dll
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\bin\Debug\EntityFramework.dll
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\bin\Debug\DevComponents.DotNetBar.Charts.dll
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\bin\Debug\BE.pdb
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\bin\Debug\BE.dll.config
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\bin\Debug\BLL.pdb
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\bin\Debug\BLL.dll.config
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\bin\Debug\BehComponents.xml
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\bin\Debug\DevComponents.DotNetBar2.xml
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\bin\Debug\EntityFramework.SqlServer.xml
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\bin\Debug\DAL.pdb
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\bin\Debug\DAL.dll.config
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\bin\Debug\EntityFramework.xml
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\obj\Debug\Hozore karconan.csproj.AssemblyReference.cache
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\obj\Debug\Hozore karconan.csproj.SuggestedBindingRedirects.cache
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.ActivationForm.resources
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.ConfirmDialog.resources
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.DashboardForm.resources
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.EmployeeForm.resources
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.Form1.resources
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.FrmMain.resources
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.karteshenasayi.resources
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.loginform.resources
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.jhg.resources
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.MainForm2.resources
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.sabtekarmand.resources
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.SearchForm.resources
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.SplashScreen.resources
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.Properties.Resources.resources
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.ToastForm.resources
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\obj\Debug\Hozore karconan.csproj.GenerateResource.cache
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\obj\Debug\Hozore karconan.csproj.CoreCompileInputs.cache
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\obj\Debug\Hozore karconan.csproj.CopyComplete
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\obj\Debug\Hozore karconan.exe
+D:\فعالیتهای پروژه حضور و غیاب\کل پروژه 20-3-1404 پوشه روز قبلی هم بماند\Hozore karconan\Hozore karconan\obj\Debug\Hozore karconan.pdb
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\libSkiaSharp.dylib
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\x86\libSkiaSharp.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\x64\libSkiaSharp.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\arm64\libSkiaSharp.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\x64\libSkiaSharp.so
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\arm\libSkiaSharp.so
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\arm64\libSkiaSharp.so
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\musl-x64\libSkiaSharp.so
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\Hozore karconan.exe.config
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\Hozore karconan.exe
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\Hozore karconan.pdb
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\BE.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\BehComponents.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\BLL.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\DevComponents.Charts.Design.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\DevComponents.DotNetBar2.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\EntityFramework.SqlServer.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\FoxLearn.License.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\Guna.UI2.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\PersianDatePickerControl.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\PersianDateTimeControl.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\XanderUI.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\DAL.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\EntityFramework.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\DevComponents.DotNetBar.Charts.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\BE.pdb
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\BE.dll.config
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\BLL.pdb
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\BLL.dll.config
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\BehComponents.xml
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\DevComponents.DotNetBar2.xml
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\EntityFramework.SqlServer.xml
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\DAL.pdb
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\DAL.dll.config
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\EntityFramework.xml
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\obj\Debug\Hozore karconan.csproj.AssemblyReference.cache
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\obj\Debug\Hozore karconan.csproj.SuggestedBindingRedirects.cache
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.ActivationForm.resources
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.ConfirmDialog.resources
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.DashboardForm.resources
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.EmployeeForm.resources
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.Form1.resources
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.FrmMain.resources
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.karteshenasayi.resources
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.loginform.resources
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.jhg.resources
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.MainForm2.resources
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.sabtekarmand.resources
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.SearchForm.resources
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.SplashScreen.resources
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.Properties.Resources.resources
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.ToastForm.resources
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\obj\Debug\Hozore karconan.csproj.GenerateResource.cache
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\obj\Debug\Hozore karconan.csproj.CoreCompileInputs.cache
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\obj\Debug\Hozore karconan.csproj.CopyComplete
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\obj\Debug\Hozore karconan.exe
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\obj\Debug\Hozore karconan.pdb
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\BarcodeStandard.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\SkiaSharp.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\System.Buffers.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\System.Drawing.Common.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\System.Memory.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\System.Numerics.Vectors.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\System.Resources.Extensions.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\System.Text.Encodings.Web.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\System.Text.Json.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\System.ValueTuple.dll
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\SkiaSharp.pdb
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\SkiaSharp.xml
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\System.Buffers.xml
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\System.Memory.xml
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\System.Numerics.Vectors.xml
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\System.Resources.Extensions.xml
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\System.Text.Encodings.Web.xml
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\System.Text.Json.xml
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\پروژه حبیب -اصلاح شده برای حبیب\Hozore karconan\Hozore karconan\bin\Debug\System.ValueTuple.xml
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\libSkiaSharp.dylib
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\x64\libSkiaSharp.so
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\arm\libSkiaSharp.so
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\arm64\libSkiaSharp.so
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\musl-x64\libSkiaSharp.so
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\Hozore karconan.exe.config
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\Hozore karconan.exe
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\Hozore karconan.pdb
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\BarcodeStandard.dll
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\BE.dll
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\BehComponents.dll
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\BLL.dll
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\DevComponents.Charts.Design.dll
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\FoxLearn.License.dll
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\Guna.UI2.dll
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\PersianDatePickerControl.dll
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\PersianDateTimeControl.dll
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\SkiaSharp.dll
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\System.Buffers.dll
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\System.Drawing.Common.dll
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\System.Memory.dll
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\System.Resources.Extensions.dll
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\System.Text.Json.dll
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\System.ValueTuple.dll
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\XanderUI.dll
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\DAL.dll
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\EntityFramework.dll
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\DevComponents.DotNetBar.Charts.dll
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\BE.pdb
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\BE.dll.config
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\BLL.pdb
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\BLL.dll.config
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\BehComponents.xml
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\SkiaSharp.pdb
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\SkiaSharp.xml
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\System.Buffers.xml
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\System.Memory.xml
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\System.Resources.Extensions.xml
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\System.Text.Json.xml
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\System.ValueTuple.xml
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\DAL.pdb
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\DAL.dll.config
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\bin\Debug\EntityFramework.xml
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\obj\Debug\Hozore karconan.csproj.AssemblyReference.cache
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\obj\Debug\Hozore karconan.csproj.SuggestedBindingRedirects.cache
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.ActivationForm.resources
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.ConfirmDialog.resources
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.DashboardForm.resources
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.Form1.resources
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.FrmMain.resources
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.loginform.resources
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.jhg.resources
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.sabtekarmand.resources
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.SplashScreen.resources
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.Properties.Resources.resources
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\obj\Debug\Hozore_karconan.ToastForm.resources
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\obj\Debug\Hozore karconan.csproj.GenerateResource.cache
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\obj\Debug\Hozore karconan.csproj.CoreCompileInputs.cache
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\obj\Debug\Hozore karconan.csproj.CopyComplete
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\obj\Debug\Hozore karconan.exe
+C:\Users\cpu\Desktop\Hozore karconan\Hozore karconan\obj\Debug\Hozore karconan.pdb
