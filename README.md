@@ -1,34 +1,35 @@
 # Employee Attendance Management System
 
-Desktop application for employee attendance management developed using C#, WinForms and SQL Server with a Three-Layer Architecture.
+A desktop Employee Attendance Management System developed using **C#**, **WinForms**, **Entity Framework 6**, and **SQL Server** following a **Three-Layer Architecture**.
 
 ## Features
 
 - Employee Management
 - User Authentication
-- Attendance Registration (Check In / Check Out)
+- Attendance Registration (Check-In / Check-Out)
 - Attendance Reports
 - Search and Filter
 - User Management
-- SQL Server Database
+- SQL Server Database Integration
 
 ## Technologies
 
 - C#
 - .NET Framework
-- WinForms
+- Windows Forms (WinForms)
 - SQL Server
-- Entity Framework
+- Entity Framework 6
 - LINQ
+- Visual Studio 2022
 
-## Architecture
+## Project Architecture
 
-This project follows the Three-Layer Architecture:
+This project follows a Three-Layer Architecture:
 
-- Presentation Layer (WinForms)
-- Business Logic Layer (BLL)
-- Data Access Layer (DAL)
-- Business Entities (BE)
+- **Presentation Layer (UI)**
+- **Business Logic Layer (BLL)**
+- **Data Access Layer (DAL)**
+- **Business Entities (BE)**
 
 ## Project Structure
 
@@ -40,16 +41,24 @@ Employee-attendance-system
 ├── DAL
 ├── Hozore karconan
 ├── Hozore karconan.sln
-└── README.md
+├── README.md
+└── LICENSE
 ```
+
+## Requirements
+
+- Visual Studio 2022
+- SQL Server
+- .NET Framework
+- Entity Framework 6
 
 ## Getting Started
 
 1. Clone the repository.
 2. Restore the SQL Server database.
-3. Update the connection string.
-4. Open the solution in Visual Studio.
-5. Build and Run.
+3. Update the connection string in `App.config`.
+4. Open the solution in Visual Studio 2022.
+5. Build and run the project.
 
 ## Future Improvements
 
@@ -60,4 +69,4 @@ Employee-attendance-system
 
 ## License
 
-MIT License
+This project is licensed under the MIT License.
