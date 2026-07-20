@@ -52,6 +52,16 @@ Employee-attendance-system
 - .NET Framework
 - Entity Framework 6
 
+- ## Database
+
+Restore **karconan.bak** using SQL Server Management Studio before running the application.
+
+## Demo Login
+
+Username: Aziz
+
+Password: 1358
+
 ## Getting Started
 
 1. Clone the repository.
